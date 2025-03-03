@@ -1,0 +1,14 @@
+{
+  "name": "JobSpring",
+  "short_name": "JobSpring",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#1B29CB",
+  "background_color": "#ffffff",
+  "display": "standalone"
+} 
